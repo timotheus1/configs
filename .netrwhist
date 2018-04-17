@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/talvarado/.tmux'
+let g:netrw_dirhist_2='/Users/talvarado/code/class/IT130/assignment3_tim_alvarado'
+let g:netrw_dirhist_3='/Users/talvarado/code/class/IT130/assignment3_tim_alvarado/pictures'
+let g:netrw_dirhist_4='/Users/talvarado/code/class/IT130/assignment3_tim_alvarado'
+let g:netrw_dirhist_5='/Users/talvarado/code/ansible_deploy/site.yml'
+let g:netrw_dirhist_6='/Users/talvarado/code/ansible_deploy'
+let g:netrw_dirhist_7='/Users/talvarado/code/class/IT130/assignment4_tim_alvarado'
+let g:netrw_dirhist_8='/Users/talvarado/code/splunk-configs/splunk-deployment-apps-configs/sphadbprdsqllogs/default'
